@@ -1,10 +1,10 @@
-# A Minimalistic NFT Marketplace
+# A Minimalistic NFT Marketsquare
 
-Demonstrates a minimalistic NFT marketplace that allows users to list NFTs for sale.
+Demonstrates a minimalistic NFT marketsquare that allows users to list NFTs for sale.
 
 ## Know your Contract
 
-The [nft-marketplace.clar](/examples/nft-marketplace/contracts/nft-marketplace.clar) contract includes the following functionality.
+The [nft-marketplace.clar](/examples/nft-marketsquare/contracts/nft-marketsquare.clar) contract includes the following functionality.
 
 - `list-asset` lists an asset along with its contract
 - `transfer-nft` transfers an NFT asset from a sender to a given recipient
